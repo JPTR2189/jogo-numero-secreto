@@ -3,6 +3,7 @@ let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
+// Exibe a mensagem inicial
 exibirMensagemInicial();
 
 function modificarElementoHTML(tag, texto) {

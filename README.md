@@ -1,6 +1,6 @@
 # Jogo do numero Secreto
 
-## 🔖 Sobre 
+## 🔎 Sobre 
 
 Projeto utilizado nos cursos de lógica de programação da Alura.
 
